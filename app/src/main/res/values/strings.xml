@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_openmode">Открыть</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+</resources>
